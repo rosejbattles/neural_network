@@ -14,7 +14,7 @@ This is my first "major" project in Rust, so it's been quite a lot of learning. 
 
 **WHO?**
 
-Me, Richard Battles.
+Me, Rose Battles.
 
 **WHEN?**
 
